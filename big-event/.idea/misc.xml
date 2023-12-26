@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatis-quickstart/pom.xml" />
+        <option value="F:/JAVA路线课程资料/2023黑马全新Web/day08-MySQL-Mybatis入门/day08-MySQL-Mybatis入门/代码/mybatis入门程序/springboot-mybatis-quickstart/springboot-mybatis-quickstart/pom.xml" />
+        <option value="F:/JAVA路线课程资料/2023黑马全新Web/day13-SpringBootWeb AOP/day13-SpringBootWeb AOP/代码/02. AOP/springboot-aop-quickstart/springboot-aop-quickstart/pom.xml" />
+        <option value="F:/JAVA路线课程资料/2023黑马全新Web/day13-SpringBootWeb AOP/day13-SpringBootWeb AOP/代码/02. AOP/tlias-web-management/tlias-web-management/pom.xml" />
+        <option value="F:/JAVA路线课程资料/2023黑马全新Web/day14-SpringBoot原理篇/springboot-autoconfiguration-test/pom.xml" />
+        <option value="F:/JAVA路线课程资料/2023黑马全新Web/day14-SpringBoot原理篇/代码/02. bean的管理/springboot-web-config2/springboot-web-config2/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/mybatis-quickstart/pom.xml" />
+        <option value="F:/JAVA路线课程资料/2023黑马全新Web/day13-SpringBootWeb AOP/day13-SpringBootWeb AOP/代码/02. AOP/tlias-web-management/tlias-web-management/pom.xml" />
+      </set>
+    </option>
+    <option name="workspaceImportForciblyTurnedOn" value="true" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

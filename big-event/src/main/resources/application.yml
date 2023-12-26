@@ -1,0 +1,17 @@
+#配置mybatis和mysql数据库
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/big_event  #big_event是数据库名字
+    username: root
+    password: password
+  data:
+    redis:
+      host:localhost
+      port:6379
+
+
+#开启驼峰密码和下划线命名的自动转换
+mybatis:
+  configuration:
+    map-underscore-to-camel-case: true
